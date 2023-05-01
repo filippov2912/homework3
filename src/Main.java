@@ -140,6 +140,6 @@ public class Main {
         double christinaDifferencePerYear = (christinaSalaryAfterPerYear - christinaSalaryBeforePerYear);
         System.out.println("Маша теперь получает " + mashaSalaryAfterPerMonth + " рублей в месяц;" + "Годовой доход вырос на " + mashaDifferencePerYear + " рублей");
         System.out.println("Денис теперь получает " + denisSalaryAfterPerMonth + " рублей в месяц;" + "Годовой доход вырос на " + denisDifferencePerYear + " рублей");
-        System.out.println("Кристина теперь получает " + christinaSalaryAfterPerMonth + " рублей в месяц." + "Годовой доход вырос на " + christinaDifferencePerYear + " рублей");
+        System.out.println("Кристина теперь получает " + christinaSalaryAfterPerMonth + " рублей в месяц" + "Годовой доход вырос на " + christinaDifferencePerYear + " рублей");
     }
 }
